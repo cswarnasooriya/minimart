@@ -1,0 +1,24 @@
+# Node modules
+node_modules/
+
+# Environment variables
+.env
+.env.*
+!.env.example   # (optional) allow an example env file to stay in Git
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# Build and cache
+dist/
+build/
+.cache/
+
+# VS Code settings
+.vscode/
+
+# System files
+.DS_Store
+Thumbs.db
