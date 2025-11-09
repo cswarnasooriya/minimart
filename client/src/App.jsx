@@ -5,7 +5,7 @@ function App() {
   
 
   return (
-   <main>
+   <main className="text-2xl font-bold text-red-500">
     my app
    </main>
   )
